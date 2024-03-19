@@ -1,0 +1,13 @@
+C:\Users\PC0\source\repos\çalışma_1504\çalışma_1504\bin\Debug\çalışma_1504.exe.config
+C:\Users\PC0\source\repos\çalışma_1504\çalışma_1504\bin\Debug\çalışma_1504.exe
+C:\Users\PC0\source\repos\çalışma_1504\çalışma_1504\bin\Debug\çalışma_1504.pdb
+C:\Users\PC0\source\repos\çalışma_1504\çalışma_1504\obj\Debug\çalışma_1504.csproj.AssemblyReference.cache
+C:\Users\PC0\source\repos\çalışma_1504\çalışma_1504\obj\Debug\çalışma_1504.Form1.resources
+C:\Users\PC0\source\repos\çalışma_1504\çalışma_1504\obj\Debug\çalışma_1504.Properties.Resources.resources
+C:\Users\PC0\source\repos\çalışma_1504\çalışma_1504\obj\Debug\çalışma_1504.csproj.GenerateResource.cache
+C:\Users\PC0\source\repos\çalışma_1504\çalışma_1504\obj\Debug\çalışma_1504.csproj.CoreCompileInputs.cache
+C:\Users\PC0\source\repos\çalışma_1504\çalışma_1504\obj\Debug\çalışma_1504.csproj.CopyComplete
+C:\Users\PC0\source\repos\çalışma_1504\çalışma_1504\obj\Debug\çalışma_1504.exe
+C:\Users\PC0\source\repos\çalışma_1504\çalışma_1504\obj\Debug\çalışma_1504.pdb
+C:\Users\PC0\source\repos\çalışma_1504\çalışma_1504\obj\Debug\çalışma_1504.FormElesstiri.resources
+C:\Users\PC0\source\repos\çalışma_1504\çalışma_1504\obj\Debug\çalışma_1504.FromElestiri.resources
